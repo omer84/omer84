@@ -1,13 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm omer ahmed</h1>
 <h3 align="center">I am Devops Engineer proficient with the following platforms and tools: 
-
-  
 ☁️Automating cloud infrastructure☁️
   
 🐳 Building container platforms🐳
-
-➡️ Configuring monitoring and log management➡️
 
 ♾️Designing CICD pipelines♾️
 
