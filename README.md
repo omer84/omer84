@@ -1,15 +1,13 @@
-
 <h1 align="center">Hi 👋, I'm omer ahmed</h1>
-<h3 align="center">I am Devops Engineer proficient with the following platforms and tools:
+<h3 align="center">A passionate SRE/Devops
   
-☁️Automating cloud infrastructure☁️
-  
+ ☁️Automating cloud infrastructure☁️
+
 🐳 Building container platforms🐳
 
 ♾️Designing CICD pipelines♾️
 
-➡️GitOps ArgoCd➡️ 
-
+➡️GitOps ArgoCd➡️</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
